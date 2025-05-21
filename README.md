@@ -1,0 +1,1 @@
+# AI-Waste-management-system
